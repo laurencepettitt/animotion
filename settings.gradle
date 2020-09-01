@@ -1,0 +1,2 @@
+include ':app', ':viro_core'
+rootProject.name = "vosanimation"
